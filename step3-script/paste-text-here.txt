@@ -1,13 +1,17 @@
 This will be my tagline:
+Creative and Clear
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+This will be my introductory text, a paragraph(s) totaling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+Hello, my name is Jonathan Clutter. I have four years of academic training in the multimedia and design field of study. I graduated from Jefferson County Joint Vocational School with Certificate of Completion in Multimedia and Design. I am currently a student and a teacher assistant at Pittsburgh Technical College. I am getting an Associate in Science Degree in Multimedia Technologies with a concentration in Web Design and Development.
+I enjoy coding JavaScript and PHP. Getting a page to understand the user or read a database is interesting to me. The problem solving with coding is fascinating to me and satisfying to finally figure the solution out. Though, it isn’t always about back-end code. I enjoy doing layout design code also. CSS Grid, Flex, and Bootstraps are what I like to use most of the time.
+This website showcases my finest works in web languages such as HTML, CSS, JavaScript, MySQL, and PHP.
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
-Highlights: 
-1)
-2)
-3)
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard:
+Title & Type of Site: Kitchen Powr Supply Catalog Website
+Talent Showcased: Sever-side Development
+Objective: Inform about Kitchen Powr products
+Target Audience: Young adults, adults, and elders
+Highlights:
+1) The site reads from a MySQL database for the products and a xml page for the recipes.
+2) The sites uses CSS Grid and Flex throughout the pages for layout.
+3) Feel free to test the website by logging in as boss with the password of boss. The login database is also made with MySQL database.
