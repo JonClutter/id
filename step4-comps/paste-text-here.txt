@@ -1,1 +1,3 @@
 Paste all the body copy from your style comps here:
+Kitchen Powr Supply Catalog WebsiteSever-side DevelopmentSell Kitchen Powr productsTarget Audience is young adults, adults, and seniors.
+Using hand-coded PHP, the site reads from a MySQL database for the product information and an xml page for the recipes.The sites uses CSS Grid to place product information and the recipes easily.Using MySQL and PHP, some abilities of the site is limited through privileges authenticated users. Feel free to test this feature by logging in as ”boss” with the password of “boss.” All user information is stored in a MySQL database.
